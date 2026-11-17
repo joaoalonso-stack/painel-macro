@@ -1,0 +1,10 @@
+python-bcb
+pyield
+pandas
+pyarrow
+plotly
+streamlit
+pytest
+truststore
+requests
+pypdf

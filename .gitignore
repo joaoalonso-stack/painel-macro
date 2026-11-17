@@ -1,0 +1,23 @@
+# Ambiente virtual
+.venv/
+
+# Cache de dados (fora do git)
+data/cache/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Segredos
+.env
+
+# Sistema / editores
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Notas geradas (rascunhos)
+reports/saida/
